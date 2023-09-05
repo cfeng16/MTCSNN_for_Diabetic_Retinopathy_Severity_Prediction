@@ -14,9 +14,9 @@ Diabetic Retinopathy (DR) has become one of the leading causes of vision impairm
 L1 is the general cross-entropy loss employed in the classification task while L2 is the mean square error (MSE) loss targeting the difference regression task, which also acts as a form of regularization.
 
 ## Experiment Results
-<img width="459" alt="image" src="https://github.com/cfeng16/MTCSNN_for_Diabetic_Retinopathy_Severity_Prediction/assets/71869595/cf7b7b2b-b1c7-4b6b-b9d1-f8dfa33e3a5a">
-<img width="536" alt="image" src="https://github.com/cfeng16/MTCSNN_for_Diabetic_Retinopathy_Severity_Prediction/assets/71869595/987489b9-8c59-406c-915c-da7a1a55b720">
 <p align="center">
+  <img width="459" alt="image" src="https://github.com/cfeng16/MTCSNN_for_Diabetic_Retinopathy_Severity_Prediction/assets/71869595/cf7b7b2b-b1c7-4b6b-b9d1-f8dfa33e3a5a">
+  <img width="536" alt="image" src="https://github.com/cfeng16/MTCSNN_for_Diabetic_Retinopathy_Severity_Prediction/assets/71869595/987489b9-8c59-406c-915c-da7a1a55b720">
   <img width="507" alt="image" src="https://github.com/cfeng16/MTCSNN_for_Diabetic_Retinopathy_Severity_Prediction/assets/71869595/732c3587-864a-477e-b440-938af06df89e">
 </p>
 
